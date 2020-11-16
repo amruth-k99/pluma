@@ -1,5 +1,5 @@
 General Information
-===================
+====================
 
 pluma is a small and lightweight UTF-8 text editor for the MATE
 environment. Based on gedit, the text editor for the GNOME2 environment.
@@ -53,7 +53,7 @@ You can download the latest pluma tarball from:
     https://pub.mate-desktop.org/releases/
 
 Installation
-============
+=============
 
 pluma requires GTK+-3.14.x and GtkSourceView 3.0.x.
 
